@@ -13,5 +13,8 @@
     "@types/puppeteer": "^1.6.0",
     "node-fetch": "^2.2.0",
     "puppeteer": "^1.7.0"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.1"
   }
 }
